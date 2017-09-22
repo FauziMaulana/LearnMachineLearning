@@ -2,8 +2,6 @@
   <img src="http://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
   </p>
   
-**Regression Analysis (including: Linear Regression, Logistic Regression, Lasso, etc  **
-
 
 
 | Notebook                                                                                                                                                                                                                                                          | Definition                                                                                                                                                                                                      |
